@@ -1,6 +1,6 @@
 # Isha Imran
 
-**Applied AI | Software engineering | AWS cloud**
+**AI Application Engineer | Software Engineering | AWS Cloud**
 
 I am a computer science graduate and Georgia Tech OMSCS student specializing in Artificial Intelligence. I hold the AWS Certified Solutions Architect - Associate and AWS Certified Developer - Associate certifications, which validate my knowledge of AWS solution design and cloud application development.
 
@@ -21,12 +21,12 @@ July 2024 to December 2024
 
 ## Selected collaborative projects
 
-- **[Cervico](https://github.com/ashirimi1019/Cervico)** | Python, FastAPI, React, MongoDB  
-  Collaborated with the lead developer on a healthcare AI prototype that estimates cervical dilation from ultrasound images.
-- **[MarketReady](https://github.com/ashirimi1019/Marketready)** | Python, FastAPI, Next.js, PostgreSQL  
-  Contributed to a platform that evaluates resumes, GitHub evidence, and labor market data.
 - **[Knowledge Augmentation Lab (KBAL)](https://github.com/ashirimi1019/knowledge-augmentation-lab)** | Python, Streamlit, RAG, GraphRAG  
   Assisted the lead developer with a Python lab comparing RAG, GraphRAG, reusable context, memory, tables, and tools.
+- **[MarketReady](https://github.com/ashirimi1019/Marketready)** | Python, FastAPI, Next.js, PostgreSQL  
+  Contributed to a platform that evaluates resumes, GitHub evidence, and labor market data.
+- **[Cervico](https://github.com/ashirimi1019/Cervico)** | Python, FastAPI, React, MongoDB  
+  Collaborated with the lead developer on a healthcare AI prototype that estimates cervical dilation from ultrasound images.
 
 [View project details on my portfolio](https://isha-imran-portfolio.vercel.app/#projects)
 
@@ -40,7 +40,7 @@ July 2024 to December 2024
 ## Education and certifications
 
 - **Georgia Institute of Technology** | M.S. Computer Science (OMSCS), Artificial Intelligence specialization, in progress, expected December 2027
-- **Georgia State University** | B.S. Computer Science
+- **Georgia State University** | B.S. Computer Science, December 2024
 - **AWS Certified Solutions Architect - Associate**
 - **AWS Certified Developer - Associate**
 - **AWS Certified AI Practitioner** | in preparation
@@ -50,7 +50,6 @@ July 2024 to December 2024
 - **DeepLearning.AI** | Retrieval Augmented Generation (RAG) | Building and Evaluating Advanced RAG | AI Agents in LangGraph
 - **OpenAI Academy** | Agents and Workflows | Design and Build Agentic Systems | Evaluate AI Applications
 - **Anthropic Academy** | Claude 101 | AI Fluency: Framework & Foundations | Claude Code 101
-- Expected September 2026
 
 ## Connect
 
